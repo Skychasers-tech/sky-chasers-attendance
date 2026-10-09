@@ -1,0 +1,23 @@
+
+{
+  "name": "Sky Chasers Attendance",
+  "short_name": "SC Attendance",
+  "description": "Sky Chasers Travel & Tourism employee attendance",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5fa",
+  "theme_color": "#102d59",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
